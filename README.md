@@ -35,12 +35,18 @@
 
 
 
-**10)** Here, on your account page, you will find a plus sign
+**10)** Here, on your account page, you will find a green button that says 'create a new repository'. Click this. Ensure that it public, so everyone can access this page.  
 
 
 
-**10)** Now, to access that same repository from Webstorm: Click on File-->New-->Project from Vers.Control. In the following menu, fill out the nesscary information
+**11)** Now, to access that same repository from Webstorm: Click on File-->New-->Project from Vers.Control. In the following menu, fill out the nesscary information.
 
 
+**12)** To create a file within this, click file--> new--> HTML file. You will get the option to add to Git. Click OK. 
+
+
+**13)** Make some changes on this file. After making changes, it is important that you commit and push these changes to Github, so it can be seen over there, as well. To do this, click the VCS--> Git--> Commit, and then VCS-->Git-->Push
+
+**14)**
 
 
