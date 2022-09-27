@@ -31,5 +31,16 @@
 **8)** To connect to your Github, add the password to Github by clicking CTRL+Alt+S. From here, select Apperance and Behavior--> System Settings--> Passwords. It will ask you for a master password. Create one. 
 
 
+**9)**Proceed to Git.
 
-**9)**
+
+
+**10)** Here, on your account page, you will find a plus sign
+
+
+
+**10)** Now, to access that same repository from Webstorm: Click on File-->New-->Project from Vers.Control. In the following menu, fill out the nesscary information
+
+
+
+
