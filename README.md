@@ -2,7 +2,7 @@
 **Part 1: How to Use Webstorm, Github, and Git**
 
 
-**1)** Download Webstorm using https://www.jetbrains.com/student/ 
+**1)** Download Webstorm using https://www.jetbrains.com
 
 
 **2)** Register and obtain a licesnse/free trial by following the information provided on the website. 
@@ -28,25 +28,57 @@
 
 
 
-**8)** To connect to your Github, add the password to Github by clicking CTRL+Alt+S. From here, select Apperance and Behavior--> System Settings--> Passwords. It will ask you for a master password. Create one. 
-
-
-**9)**Proceed to Git.
+**8)** To connect to your Github, add the password to Github by clicking CTRL+Alt+S. 
 
 
 
-**10)** Here, on your account page, you will find a green button that says 'create a new repository'. Click this. Ensure that it public, so everyone can access this page.  
+**9)** From here, select Apperance and Behavior--> System Settings--> Passwords. 
 
 
 
-**11)** Now, to access that same repository from Webstorm: Click on File-->New-->Project from Vers.Control. In the following menu, fill out the nesscary information.
+
+**10)** It will ask you for a master password. Create one. 
 
 
-**12)** To create a file within this, click file--> new--> HTML file. You will get the option to add to Git. Click OK. 
+**11)**Proceed to Git.
 
 
-**13)** Make some changes on this file. After making changes, it is important that you commit and push these changes to Github, so it can be seen over there, as well. To do this, click the VCS--> Git--> Commit, and then VCS-->Git-->Push
 
-**14)**
+**12)** Sign in 
+
+
+
+**13)** Here, on your account page, you will find a green button that says 'create a new repository'. Click this. Ensure that it public, so everyone can access this page.  Your files for your site will be stored within a repository. There will most likely be multiple files. 
+
+
+
+**14)** Now, to access that same repository from Webstorm: Click on File-->New-->Project from Vers.Control. In the following menu, fill out the nesscary information.
+
+
+**15)** To create a file within this, click file--> new--> HTML file. You will get the option to add to Git. Click OK. 
+
+
+**16)** Make some changes on this file. After making changes, it is important that you commit and push these changes to Github, so it can be seen over there, as well. To do this, click the VCS--> Git--> Commit, and then VCS-->Git-->Push
+
+**17)** Check back on Git to ensure that the change can be seen, 
+
+**18)** After editing on Webstorm, commit and push every few changes to Github. 
+
+
+**19)** Once you have finished, to public, click on your repository 
+
+
+
+**20)** Click on settings and scroll to github pages
+
+
+
+**21)** Ensure that the source is on 'master branch' and click save.
+
+
+
+**22)** Your URL should be saved. 
+
+**PART 2** 
 
 
