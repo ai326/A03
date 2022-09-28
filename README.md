@@ -2,7 +2,7 @@
 **Part 1: How to Use Webstorm, Github, and Git**
 
 
-**1)** Download Webstorm using https://www.jetbrains.com
+**1)** Download Webstorm using https://www.jetbrains.com. Webstorm is an IDE used for coding a variety of different program languages, but in this case, HTML. 
 
 
 **2)** Register and obtain a licesnse/free trial by following the information provided on the website. 
@@ -40,7 +40,7 @@
 
 
 
-**10)** It will ask you for a master password. Create one. 
+**10)** It will ask you for a master password. Create one, to connect your Github to your webstorm. 
 
 
 **11)**Proceed to Git.
@@ -58,17 +58,17 @@
 **14)** Now, to access that same repository from Webstorm: Click on File-->New-->Project from Vers.Control. In the following menu, fill out the nesscary information.
 
 
-**15)** To create a file within this, click file--> new--> HTML file. You will get the option to add to Git. Click OK. 
+**15)** To create a file within this, click file--> new--> HTML file.(Or, depending on the file type you require, choose accordingly) You will get the option to add to Git. Click OK. 
 
 
 **16)** Make some changes on this file. After making changes, it is important that you commit and push these changes to Github, so it can be seen over there, as well. To do this, click the VCS--> Git--> Commit, and then VCS-->Git-->Push
 
-**17)** Check back on Git to ensure that the change can be seen, 
+**17)** Check back on Git to ensure that the change can be seen.
 
 **18)** After editing on Webstorm, commit and push every few changes to Github. 
 
 
-**19)** Once you have finished, to public, click on your repository 
+**19)** Once you have finished, to publish, click on your repository 
 
 
 
@@ -120,6 +120,25 @@
 
 
 
-**Part 3**
+**PART 3**
+
+
 Works Cited
+
+- https://docs.github.com/en/get-started/quickstart/github-glossary 
+
+
+- https://docs.github.com/en/get-started/quickstart/hello-world#introduction 
+
+
+- https://www.jetbrains.com/help/webstorm/creating-projects-in-product.html#version_control 
+
+
+- https://medium.com/singapore-rails-learning-group/how-to-push-your-code-to-github-and-publish-your-first-page-8b0e1f4caf2a 
+
+
+- https://njit.instructure.com/courses/24634/files/3881120?module_item_id=872424 
+
+
+- https://njit.instructure.com/courses/24634/files/3881136?module_item_id=872425 
 
