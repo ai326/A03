@@ -110,5 +110,16 @@
 -**Push** - sending commited changes from your editor to a remote repository so other people on Github can view them
 
 
--**Pull
+-**Pull**- merging changes into the local file
+
+
+-**Remote** - A version of the main repository that can be found on the server 
+
+
+-**Repository** - the project folder that holds all the files and updates 
+
+
+
+**Part 3**
+Works Cited
 
