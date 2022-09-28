@@ -32,6 +32,9 @@
 
 
 
+
+
+
 **9)** From here, select Apperance and Behavior--> System Settings--> Passwords. 
 
 
@@ -80,5 +83,32 @@
 **22)** Your URL should be saved. 
 
 **PART 2** 
+- **Branch**- lives within the repository and allows you to edit without potentially damaging the main brach of code. 
 
+- **Clone** - a copy of the repository that is saved in the computer instead of a server. You can still make changes and still be connected to the original version, so you're able to push any changes. 
+
+
+-**Commit** - saving your work after updating it, so you can keep track of all the changes made. Each commit has it's own 'name tag' or identifiable tag. 
+
+
+-**Fetch** - A temporary commit. It allows you to view changes without commiting them. Command written as: git fetch
+
+
+
+-**GIT** - A free software used in tracking changes in software/code files collaboratively. It is the 'Google Drive' of code. 
+
+
+-**GitHub** - An extension of git, used to give access to many open projects. You can either work on an existing project or create your own, in which case you will be able to publish the site through Github, as well. 
+
+
+-**Merge** - takes the changes in one branch and puts them in another
+
+
+-**Merge Conflict** - when two different changes are made in the same line of a file. 
+
+
+-**Push** - sending commited changes from your editor to a remote repository so other people on Github can view them
+
+
+-**Pull
 
